@@ -1,0 +1,10 @@
+INSERT IGNORE INTO person VALUES (1, 'George', 'Franklin');
+INSERT IGNORE INTO person VALUES (2, 'Betty', 'Davis');
+INSERT IGNORE INTO person VALUES (3, 'Eduardo', 'Rodriquez');
+INSERT IGNORE INTO person VALUES (4, 'Harold', 'Davis');
+INSERT IGNORE INTO person VALUES (5, 'Peter', 'McTavish');
+INSERT IGNORE INTO person VALUES (6, 'Jean', 'Coleman');
+INSERT IGNORE INTO person VALUES (7, 'Jeff', 'Black');
+INSERT IGNORE INTO person VALUES (8, 'Maria', 'Escobito');
+INSERT IGNORE INTO person VALUES (9, 'David', 'Schroeder');
+INSERT IGNORE INTO person VALUES (10, 'Carlos', 'Estaban');
